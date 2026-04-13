@@ -1,0 +1,8 @@
+total 68
+-rwxrwxr-x 1 chau-dinh chau-dinh 22680 Apr 13 22:12 chat_server
+-rw-rw-r-- 1 chau-dinh chau-dinh  4364 Apr 13 22:11 chat_server.c
+-rw-rw-r-- 1 chau-dinh chau-dinh    30 Apr 13 22:34 databases.txt
+-rw-rw-r-- 1 chau-dinh chau-dinh     0 Apr 13 22:38 out_4.txt
+-rw-rw-r-- 1 chau-dinh chau-dinh    80 Apr 13 22:38 out_5.txt
+-rwxrwxr-x 1 chau-dinh chau-dinh 22912 Apr 13 22:34 telnet_server
+-rw-rw-r-- 1 chau-dinh chau-dinh  3455 Apr 13 22:31 telnet_server.c
