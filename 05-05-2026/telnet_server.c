@@ -116,7 +116,7 @@ int main() {
                             send(client, file_buf, strlen(file_buf), 0);
                         }
                         fclose(f);
-                        remove(tmp_file); // Xóa file tạm sau khi dùng
+                        //remove(tmp_file); // Xóa file tạm sau khi dùng
                     }
                     send(client, "\nDone.\n", 7, 0);
                 }
